@@ -1,6 +1,8 @@
+package BEE_Day3;
+
 import java.util.Scanner;
 
-public class Main {
+public class ConsumptionBEE1014 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
@@ -12,5 +14,6 @@ public class Main {
         System.out.printf("%.3f km/l%n", averageConsumption);
 
         scanner.close();
+
     }
 }
