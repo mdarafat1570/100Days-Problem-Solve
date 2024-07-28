@@ -1,6 +1,8 @@
+package BEE_Day10;
+
 import java.util.Scanner;
 
-public class Main {
+public class Interval {
     public static void main(String[] args) {
         float N;
         Scanner input =new Scanner(System.in);

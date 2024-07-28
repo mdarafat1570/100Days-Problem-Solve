@@ -1,4 +1,4 @@
-package BEE_Day7_Date_7_9_24;
+package BEE_Day7;
 
 import java.util.Scanner;
 
